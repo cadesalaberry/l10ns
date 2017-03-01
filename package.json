@@ -41,7 +41,7 @@
     "cldrjs": "^0.4.0",
     "commander": "^2.7.1",
     "connect-modrewrite": "^0.6.0",
-    "express": "~3.1.2",
+    "express": "~4.0.0",
     "findup-sync": "~0.1.1",
     "glob": "~3.2.8",
     "hashids": "~0.1.4",
@@ -53,7 +53,7 @@
     "prompt": "~0.2.12",
     "q": "~1.0.0",
     "requirejs": "~2.1.10",
-    "superagent": "~0.17.0",
+    "superagent": "~2.0.0",
     "terminal-colors": "~0.1.3",
     "underscore": "~1.5.2",
     "update-notifier": "^0.2.2"
